@@ -1,7 +1,7 @@
 
 ## This is the Code Book for the Getting and Cleaning Data Course Project
 
-#The data was gathered during 6 different activities
+###The data was gathered during 6 different activities
 
 Standing
 Sitting
@@ -11,7 +11,7 @@ Walking Downstairs
 Walking Upstairs
 
 
-# List of Variables in the data set
+### List of Variables in the data set
 
 T Body Acc X Mean = The Mean Time Domain Body Motion Using the Accelerometer About the X-axis
 
