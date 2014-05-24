@@ -3,7 +3,7 @@ Getting-And-Cleaning-Data-Project
 
 ## This is the ReadMe file for the Getting and Cleaning Data Course Project
 
-#The code should run as written
+###The code should run as written
 
 It reads in the data at the beginning
 
